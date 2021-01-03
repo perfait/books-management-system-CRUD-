@@ -1,10 +1,22 @@
 <?php
 
 function createdb(){
+
+    /*
+    //on local database
+
     $servername="localhost";
     $username="root";
     $password="";
     $dbname="bookstore";
+    */
+
+    //on remote database
+    $servername="remotesql.com";
+    $username="Dqi3GX22Gh";
+    $password="5KRrjgIPLp";
+    $dbname="Dqi3GX22Gh";
+
 
         //create connectionfr
     $con = mysqli_connect($servername, $username, $password);
