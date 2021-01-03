@@ -12,10 +12,10 @@ function createdb(){
     */
 
     //on remote database
-    $servername="remotesql.com";
-    $username="Dqi3GX22Gh";
-    $password="5KRrjgIPLp";
-    $dbname="Dqi3GX22Gh";
+    $servername="remotemysql.com";
+    $username="JfTS3rf8Ty";
+    $password="rDRKhwrZlX";
+    $dbname="JfTS3rf8Ty";
 
 
         //create connectionfr
